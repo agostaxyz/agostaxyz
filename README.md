@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently looking for a job.  
-- 🌱 I’m currently learning Game Design.  
-- 📫 How to reach me: [Telegram](https://t.me/GeladeiraTsunami) and [Email](mailto:me@agosta.dev).  
-#### For more info check [agosta.dev](https://agosta.dev)  
+- 🎮 I’m the co-creator of [Cranbio](https://cranbio.org).  
+- 🌱 I’m currently learning some Game Design.
+- 📫 How to reach me: [Telegram](https://t.me/GeladeiraTsunami) or [Email](mailto:me@agosta.dev).  
+- ℹ For more info check [agosta.dev](https://agosta.dev).  

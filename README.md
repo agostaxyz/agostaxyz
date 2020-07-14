@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently looking for a job.  
-- 🎮 I’m the co-creator of [Cranbio](https://cranbio.org).  
+- 🎮 I’m the co-creator of [Cranbio](https://cranbio.org), a game dev idea.
 - 🌱 I’m currently learning some Game Design.
 - 📫 How to reach me: [Telegram](https://t.me/GeladeiraTsunami) or [Email](mailto:me@agosta.dev).  
 - ℹ For more info check [agosta.dev](https://agosta.dev).  

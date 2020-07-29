@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Bootstrap and PHP.  
 - 🎮 I have a future game dev idea, [Cranbio](https://cranbio.org).  
 - 📫 Reach me at [Telegram](https://t.me/GeladeiraTsunami) or [Email](mailto:me@agosta.dev) (en/pt/es).  
-- ℹ For more info (or some Easter egg hunt) check [agosta.dev](https://agosta.dev)!  
+- ℹ For more info check [agosta.dev](https://agosta.dev)!  
 
 <!--
 **Coldsaga/Coldsaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

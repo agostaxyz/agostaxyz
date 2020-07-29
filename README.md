@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working @ EWZCapital / GuruInvestidor.  
+- 🔭 I’m currently working [@EWZCapital](https://github.com/GuruInvestidor) and [@GuruInvestidor](https://github.com/GuruInvestidor).  
 - 🌱 I’m currently learning Bootstrap and PHP.  
 - 🎮 [Cranbio](https://cranbio.org), a future game dev project.  
 - 📫 How to reach me: [Telegram](https://t.me/GeladeiraTsunami) or [Email](mailto:me@agosta.dev).  

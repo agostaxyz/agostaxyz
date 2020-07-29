@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🐧 Open Source Enthusiast.  
-- 🔭 I’m currently working as Web Dev [@EWZCapital](https://github.com/EWZCapital) & [@GuruInvestidor](https://github.com/GuruInvestidor).  
+- 💻 I’m currently working as Web Dev [@EWZCapital](https://github.com/EWZCapital) & [@GuruInvestidor](https://github.com/GuruInvestidor).  
 - 🌱 I’m currently learning Bootstrap and PHP.  
 - 🎮 I have a future game dev idea, [Cranbio](https://cranbio.org).  
 - 📫 Reach me at [Telegram](https://t.me/GeladeiraTsunami) or [Email](mailto:me@agosta.dev).  

@@ -1,9 +1,10 @@
-### Hi there 🐧  
-- 🔭 I’m currently working [@EWZCapital](https://github.com/EWZCapital) and [@GuruInvestidor](https://github.com/GuruInvestidor).  
+### Hi there 👋
+- 🐧 Open Source Enthusiast.  
+- 🔭 I’m currently working as Web Dev [@EWZCapital](https://github.com/EWZCapital) & [@GuruInvestidor](https://github.com/GuruInvestidor).  
 - 🌱 I’m currently learning Bootstrap and PHP.  
-- 🎮 [Cranbio](https://cranbio.org), a future game dev project.  
-- 📫 How to reach me: [Telegram](https://t.me/GeladeiraTsunami) or [Email](mailto:me@agosta.dev).  
-- ℹ For more info check [agosta.dev](https://agosta.dev).  
+- 🎮 I have a future game dev idea, [Cranbio](https://cranbio.org).  
+- 📫 Reach me at [Telegram](https://t.me/GeladeiraTsunami) or [Email](mailto:me@agosta.dev).  
+- ℹ For more info (or some Easter egg hunt) check [agosta.dev](https://agosta.dev)!  
 
 <!--
 **Coldsaga/Coldsaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

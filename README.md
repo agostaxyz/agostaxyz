@@ -1,6 +1,7 @@
-## Hi there 👋
-- ℹ [Agosta.dev](https://agosta.dev)  
-- 🌱 Open Source, Privacy, Art, Game Design and Music enthusiast.  
+## Hi there 👋  
+#### [Agosta.dev](https://agosta.dev)  
+  
+- 🐧 Open Source, 🔒 Privacy, 🎭 Art, 🎮 Game Design and 🎵 Music enthusiast.  
 - 💻 I’m currently working as Web Dev [@EWZCapital](https://github.com/EWZCapital) & [@GuruInvestidor](https://github.com/GuruInvestidor).  
 - 🗺️ SP - Brazil.  
 - 📫 Reach me at [Telegram](https://t.me/GeladeiraTsunami) or [Email](mailto:me@agosta.dev) (en/pt).  

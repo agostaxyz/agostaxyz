@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 - 🐧 Open Source Enthusiast.  
 - 🌱 Interests in Privacy, Art, Game Design and Music.  
 - 💻 I’m currently working as Web Dev [@EWZCapital](https://github.com/EWZCapital) & [@GuruInvestidor](https://github.com/GuruInvestidor).  

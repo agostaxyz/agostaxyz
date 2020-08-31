@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 🐧 Open Source Enthusiast.  
-- 🌱 Interests in Privacy, Art and Music.  
+- 🌱 Interests in Privacy, Art, Game Design and Music.  
 - 💻 I’m currently working as Web Dev [@EWZCapital](https://github.com/EWZCapital) & [@GuruInvestidor](https://github.com/GuruInvestidor).  
-- 🎮 I have a future game dev idea, [Cranbio](https://cranbio.org).  
+- 🗺️ SP - Brazil.
 - 📫 Reach me at [Telegram](https://t.me/GeladeiraTsunami) or [Email](mailto:me@agosta.dev) (en/pt/es).  
 - ℹ For more info check [agosta.dev](https://agosta.dev)!  
 

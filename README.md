@@ -1,14 +1,15 @@
 ## Hi there 👋  
 ### [Agosta.dev](https://agosta.dev)  
-  
-- 🌱 Open Source,  Privacy,  Art and Game Design enthusiast. (🐧🔒🎭🎮)  
-- 💻 I’m currently working as Web Dev [@EWZCapital](https://github.com/EWZCapital) & [@GuruInvestidor](https://github.com/GuruInvestidor).  
+
+
+- 💻 I’m a Back end Dev and Artist, currently working as Web Dev [@EWZCapital](https://github.com/EWZCapital) & [@GuruInvestidor](https://github.com/GuruInvestidor).  
+- 🌱 Open Source, Internet Privacy and Game Design Enthusiast 🐧🔒🎮🎭, feel free to contact me to discuss anything.  
 - 🗺️ SP - Brazil.  
+- ℹ️ Check my website for more info!  
 - 📫 Reach me at [Telegram](https://t.me/GeladeiraTsunami) or [Email](mailto:me@agosta.dev) (en/pt).  
 <!--
 **Coldsaga/Coldsaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-- 🐧 Open Source Enthusiast.  
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...

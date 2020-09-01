@@ -2,7 +2,7 @@
 ### [Agosta.dev](https://agosta.dev)  
 
 
-- 💻 I’m a Back end Dev and Artist, currently working as Web Dev [@EWZCapital](https://github.com/EWZCapital) & [@GuruInvestidor](https://github.com/GuruInvestidor).  
+- 💻 I’m a Back-End Dev and Artist, currently working as Web Dev [@EWZCapital](https://github.com/EWZCapital) & [@GuruInvestidor](https://github.com/GuruInvestidor).  
 - 🌱 Open Source, Internet Privacy and Game Design Enthusiast 🐧🔒🎮🎭, feel free to contact me to discuss anything.  
 - 🗺️ SP - Brazil.  
 - ℹ️ Check my website for more info!  

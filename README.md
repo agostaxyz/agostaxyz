@@ -2,9 +2,9 @@
 ### [Agosta.dev](https://agosta.dev)  
 
 
-- 💻 I’m a Back-End Dev and Artist, currently working as Web Dev [@EWZCapital](https://github.com/EWZCapital) & [@GuruInvestidor](https://github.com/GuruInvestidor).  
-- 🌱 Open Source, Internet Privacy and Game Design Enthusiast 🐧🔒🎮🎭, feel free to contact me to discuss anything.  
+- 💻 I’m a Back-End Dev, currently looking for a job.  
 - 🗺️ SP - Brazil.  
+- 🌱 Open Source, Internet Privacy and Game Design Enthusiast 🐧🔒🎮🎭, feel free to contact me to discuss anything.  
 - ℹ️ Check my website for more info!  
 - 📫 Reach me at [Telegram](https://t.me/GeladeiraTsunami) or [Email](mailto:me@agosta.dev) (en/pt).  
 <!--

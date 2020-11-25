@@ -4,6 +4,7 @@
 I’m a...  
 - 💻 Backend dev, currently looking for a job.  
 - 🌱 Open Source Enthusiast.  
+  
 - 🗺️ São Paulo SP - Brazil.  
 - ℹ️ Check [my website](https://agosta.dev) for more info!  
 - 📫 Reach me at [Telegram](https://t.me/GeladeiraTsunami) or [Email](mailto:me@agosta.dev) (en/pt) (I don't allow any type of advertising or promotional email or messages).  

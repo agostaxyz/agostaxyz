@@ -2,11 +2,11 @@
 ### [Agosta.dev](https://agosta.dev)  
 
 
-- 💻 I’m a Back-End Dev, currently looking for a job.  
-- 🌱 Open Source, Internet Privacy and Game Design Enthusiast 🐧🔒🎮🎭, feel free to contact me to discuss anything.  
+- 💻 I’m a Backend dev, currently looking for a job.  
+- 🌱 Open Source Enthusiast.  
 - 🗺️ São Paulo SP - Brazil.  
 - ℹ️ Check [my website](https://agosta.dev) for more info!  
-- 📫 Reach me at [Telegram](https://t.me/GeladeiraTsunami) or [Email](mailto:me@agosta.dev) (en/pt).  
+- 📫 Reach me at [Telegram](https://t.me/GeladeiraTsunami) or [Email](mailto:me@agosta.dev) (en/pt) (I don't allow any type of advertising or promotional email).  
 <!--
 **Coldsaga/Coldsaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:

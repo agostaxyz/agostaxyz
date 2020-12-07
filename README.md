@@ -1,7 +1,7 @@
 ## Hi there 👋  
 
 
-<a href="https://agosta.dev"><img src="https://agosta.dev/src/favicons/favicon-512x512.png" min-width="250px" max-width="250px" width="250px" align="right" alt="computer"></a>
+<a href="https://agosta.dev"><img src="https://agosta.dev/src/favicons/favicon-512x512.png" min-width="200px" max-width="220px" width="220px" align="right" alt="computer"></a>
 
 ### [Agosta.dev](https://agosta.dev)  
 

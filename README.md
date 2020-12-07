@@ -8,7 +8,6 @@
 - 💻 I’m a Backend dev, currently looking for a job.  
 - 🗺️ São Paulo SP - Brazil.  
 - 🌱 Open Source Enthusiast.  
-
 - ℹ️ Check [my website](https://agosta.dev) for more projects and info!  
 - 📫 Wanna chat or do a project together? Reach me at the links bellow, (en/pt-br).
   

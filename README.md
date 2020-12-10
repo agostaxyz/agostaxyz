@@ -1,6 +1,6 @@
 ## [Agosta.dev](https://agosta.dev)  
 
-<a href="https://agosta.dev"><img src="https://agosta.dev/src/favicons/favicon-512x512.png" min-width="200px" max-width="220px" width="220px" align="right" alt="computer"></a>
+<a href="https://agosta.dev"><img src="https://agosta.dev/src/favicons/favicon-512x512.png" min-width="100px" max-width="155px" width="155px" align="right" alt="computer"></a>
 
 - 🌱 Open Source Enthusiast.  
 - ℹ️ Check [my website](https://agosta.dev) for more projects and info!  

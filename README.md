@@ -1,9 +1,7 @@
-## Hi there 👋  
-
+## [Agosta.dev](https://agosta.dev)  
 
 <a href="https://agosta.dev"><img src="https://agosta.dev/src/favicons/favicon-512x512.png" min-width="200px" max-width="220px" width="220px" align="right" alt="computer"></a>
 
-### [Agosta.dev](https://agosta.dev)  
 
 - 💻 I’m a Backend dev, currently looking for a job.  
 - 🗺️ São Paulo SP - Brazil.  

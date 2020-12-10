@@ -4,7 +4,7 @@
 
 - 🌱 Open Source Enthusiast.  
 - 📫 Wanna chat or do a project together? Reach me at the links bellow. (en/pt-br).  
-  ###### ***DON'T SEND ME UNSOLICITED ADVERTISING.***
+###### ***DON'T SEND ME UNSOLICITED ADVERTISING.***
   
 <a href ="mailto:me@agosta.dev" alt="me@agosta.dev">
 <img src="https://img.shields.io/badge/-me@agosta.dev-840010?style=flat-square&labelColor=840010&logo=Tutanota&logoColor=white&link=mailto:me@agosta.dev" /></a>

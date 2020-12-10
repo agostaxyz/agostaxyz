@@ -3,7 +3,6 @@
 <a href="https://agosta.dev"><img src="https://agosta.dev/src/favicons/favicon-512x512.png" min-width="100px" max-width="155px" width="155px" align="right" alt="computer"></a>
 
 - 🌱 Open Source Enthusiast.  
-- ℹ️ Check [my website](https://agosta.dev) for more projects and info!  
 - 📫 Wanna chat or do a project together? Reach me at the links bellow. (en/pt-br).  
   ###### ***DON'T SEND ME UNSOLICITED ADVERTISING.***
   

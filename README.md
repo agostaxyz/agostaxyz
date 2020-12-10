@@ -7,7 +7,7 @@
   ###### ***DON'T SEND ME UNSOLICITED ADVERTISING.***
   
 <a href ="mailto:me@agosta.dev" alt="me@agosta.dev">
-<img src="https://img.shields.io/badge/-me@agosta.dev-8B89CC?style=flat-square&labelColor=8B89CC&logo=Protonmail&logoColor=white&link=mailto:me@agosta.dev" /></a>
+<img src="https://img.shields.io/badge/-me@agosta.dev-840010?style=flat-square&labelColor=840010&logo=Tutanota&logoColor=white&link=mailto:me@agosta.dev" /></a>
 
 <a href ="https://t.me/GeladeiraTsunami" alt="Telegram">
 <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&labelColor=2CA5E0&logo=Telegram&logoColor=white&link=https://t.me/GeladeiraTsunami" /></a>

@@ -1,16 +1,19 @@
-## [Agosta.dev](https://agosta.dev)  
+## Hi, I'm Luca Agosta 👋  
 
-<a href="https://agosta.dev"><img src="https://agosta.dev/src/favicons/favicon-512x512.png" min-width="100px" max-width="250px" width="131px" align="right" alt="computer"></a>
-
-- 🌱 Open Source Enthusiast.  
-- 📫 Wanna chat or do a project together? Reach me at the links bellow. (en/pt-br).  
-###### ***DON'T SEND ME UNSOLICITED ADVERTISING.***
+<a href="https://agosta.xyz"><img src="https://github.com/Coldsaga/agosta.xyz/blob/main/assets/images/logo.png" min-width="100px" max-width="250px" width="170px" align="right" alt="My Logo"></a>
+<img src="https://opensource.org/files/osi_keyhole_300X300_90ppi_0.png" alt="Open Source Logo" height="17px"> Open Source Contributor.  
+🇧🇷 Born in Brazil.  
+🏙 Living in São Paulo, SP.
   
-<a href ="mailto:me@agosta.dev" alt="me@agosta.dev">
-<img src="https://img.shields.io/badge/-me@agosta.dev-840010?style=flat-square&labelColor=840010&logo=Tutanota&logoColor=white&link=mailto:me@agosta.dev" /></a>
-
-<a href ="https://t.me/GeladeiraTsunami" alt="Telegram">
-<img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&labelColor=2CA5E0&logo=Telegram&logoColor=white&link=https://t.me/GeladeiraTsunami" /></a>
+### I'm...   
+- Working on an FOSS customisable browser startpage project.   
+- Finishing my CC Bachelor. 
+  
+### Find Me Elsewhere  
+🚀[Site](https://agosta.xyz)  
+✉️[Telegram](https://agosta.xyz)  
+ @ [Email](mailto:me@agosta.xyz)  
+💼[LinkedIn](https://agosta.xyz)  
 
 <!--
 **Coldsaga/Coldsaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

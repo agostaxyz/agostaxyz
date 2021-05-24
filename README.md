@@ -2,13 +2,17 @@
 
 <a href="https://agosta.xyz"><img src="https://github.com/Coldsaga/agosta.xyz/blob/main/assets/images/logo.png" min-width="100px" max-width="250px" width="170px" align="right" alt="My Logo"></a>
 <img src="https://opensource.org/files/osi_keyhole_300X300_90ppi_0.png" alt="Open Source Logo" height="17px"> Open Source Contributor.  
+⚖ Vim over Emacs.  
 🇧🇷 Born in Brazil.  
-🏙 Living in São Paulo, SP.
-  
+🏙 Living in São Paulo, SP.  
+
+
+
 ### I'm...   
 - Working on an FOSS customisable browser startpage project.   
 - Finishing my CC Bachelor. 
-  
+
+
 ### Find Me Elsewhere  
 🚀[Site](https://agosta.xyz)  
 ✉️[Telegram](https://agosta.xyz)  

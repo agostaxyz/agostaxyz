@@ -14,8 +14,8 @@
 
 ### Find Me Elsewhere  
 💻[Site](https://agosta.xyz)  
-✉️[Telegram](https://agosta.xyz)  
- @ [Email](mailto:me@agosta.xyz)  
+[Telegram](https://agosta.xyz)  
+✉️[Email](mailto:me@agosta.xyz)  
 💼[LinkedIn](https://agosta.xyz)  
 
 <!--

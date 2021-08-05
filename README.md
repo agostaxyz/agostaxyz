@@ -1,6 +1,6 @@
 ## Hi, I'm Luca Agosta 👋  
   
-  <img src="https://bestanimations.com/Animals/Birds/Penguins/animated-penguin-gif-5.gif" height="310px" align="right" alt="penguim"/>
+  <img src="https://bestanimations.com/Animals/Birds/Penguins/animated-penguin-gif-5.gif" height="300px" align="right" alt="penguim"/>
   
 💻 Backend dev  
 🇧🇷 Living in São Paulo, Brazil  

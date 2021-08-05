@@ -1,12 +1,11 @@
 ## Hi, I'm Luca Agosta 👋  
-  
-  <img src="https://bestanimations.com/Animals/Birds/Penguins/animated-penguin-gif-5.gif" height="300px" align="right" alt="penguim"/>
+  <img src="https://bestanimations.com/Animals/Birds/Penguins/animated-penguin-gif-5.gif" height="300px" align="right" alt="Penguin Ggif"/>
   
 💻 Backend dev  
 🇧🇷 Living in São Paulo, Brazil  
 🐮 Animal Rights Activist  
-🔓 Open Source and Privacy Advocate
-  
+🔓 Open Source and Privacy Advocate  
+🌎 He/Him, EN-PT-ES  
 ### I'm...   
 - Finishing my CS Bachelor. 
 - Working on an FOSS customisable browser startpage project.   

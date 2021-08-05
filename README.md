@@ -16,6 +16,8 @@
 <a href="https://t.me/GeladeiraTsunami" alt="Telegram"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=Telegram" /></a>
 <a href="mailto:me@agosta.xyz" alt="me@agosta.xyz"><img src="https://img.shields.io/badge/me@agosta.xyz-20977f?style=flat&logo=tutanota" /></a>
 <a href="https://www.linkedin.com/in/lucaagosta/" alt="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn" /></a>
+<a href="https://opencollective.com/coldsaga" alt="Open Collective"><img src="https://img.shields.io/badge/Open_Collective-1468c7?style=flat&logo=OpenCollective" /></a>
+
 
 <!--
 ### Find Me Elsewhere  

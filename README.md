@@ -6,7 +6,7 @@
 🐮 Animal Rights Activist  
 🔓 Open Source and Privacy Advocate  
 🌎 He/Him. EN-PT-ES  
-### I'm...   
+## I'm...   
 - Finishing my CS Bachelor. 
 - Working on an FOSS customisable browser startpage project.   
 - Open to partnerships and work.

@@ -1,14 +1,10 @@
 ## Hi, I'm Luca Agosta 👋
   <a title="😎🐧" href="https://agosta.xyz"><img align="right" width="240px" src="https://i.imgur.com/ISMXjvS.gif" alt="Penguin Gif"/></a>
 
-📣 He/Him, en, pt, es.  
-
+🌎 He/Him; en, pt, es.  
 💻 Frontend dev improving backend.  
-  
 🔓 Open source and privacy advocate.  
-  
 🐮 Animal rights activist.  
-  
 🥙 Amateur cook.  
   
 <div align="center">    

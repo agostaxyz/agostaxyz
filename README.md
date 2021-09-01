@@ -2,8 +2,8 @@
   <a title="😎🐧" href="https://agosta.xyz"><img align="right" width="245px" src="https://i.imgur.com/ISMXjvS.gif" alt="Penguin Gif"/></a>
 
 🌎 He/Him; en, pt, es.  
-🇧🇷 Living in São Paulo, Brazil.  
 💻 Frontend dev improving backend.  
+🇧🇷 Living in São Paulo, Brazil.  
 🔓 Open source and privacy advocate.  
 🐮 Animal rights activist.  
 🥙 Amateur cook.  

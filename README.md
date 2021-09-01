@@ -1,5 +1,5 @@
 ## Hi, I'm Luca Agosta
-  <a title="😎🐧" href="https://agosta.xyz"><img height="205px" align="right" src="https://i.imgur.com/ISMXjvS.gif" alt="Penguin Gif"/></a>
+  <a title="😎🐧" href="https://agosta.xyz"><img height="200px" align="right" src="https://i.imgur.com/ISMXjvS.gif" alt="Penguin Gif"/></a>
     
 💻 Backend dev  
 🇧🇷 Living in São Paulo, Brazil  

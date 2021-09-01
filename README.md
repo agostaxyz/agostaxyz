@@ -1,12 +1,12 @@
 ## Hi, I'm Luca Agosta
   <a title="😎🐧" href="https://agosta.xyz"><img height="200px" align="right" src="https://i.imgur.com/ISMXjvS.gif" alt="Penguin Gif"/></a>
     
-💻 Backend dev  
-🇧🇷 Living in São Paulo, Brazil  
-🔓 Open source and privacy advocate  
-🐮 Animal rights activist  
-🥙 Amateur cook  
-🌎 He/Him. EN-PT-ES  
+💻 Backend dev.  
+🇧🇷 Living in São Paulo, Brazil.  
+🔓 Open source and privacy advocate.  
+🐮 Animal rights activist.  
+🥙 Amateur cook.  
+🌎 He/Him, EN-PT-ES.  
     
 For contact or more information check my website or the other links bellow:  
   

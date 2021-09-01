@@ -2,9 +2,9 @@
   <a title="😎🐧" href="https://agosta.xyz"><img height="195px" align="right" src="https://bestanimations.com/Animals/Birds/Penguins/animated-penguin-gif-5.gif" alt="Penguin Gif"/></a>
     
 💻 Backend dev  
-🇧🇷 Living in São Paulo, Brazil  
+🇧🇷 Living in São Paulo, Brazil
+🔓 Open Source and Privacy Advocate    
 🐮 Animal Rights Activist  
-🔓 Open Source and Privacy Advocate  
 🥙 Amateur Cook  
 🌎 He/Him. EN-PT-ES  
     

@@ -3,9 +3,9 @@
     
 💻 Backend dev  
 🇧🇷 Living in São Paulo, Brazil  
-🔓 Open Source and Privacy Advocate  
-🐮 Animal Rights Activist  
-🥙 Amateur Cook  
+🔓 Open source and privacy advocate  
+🐮 Animal rights activist  
+🥙 Amateur cook  
 🌎 He/Him. EN-PT-ES  
     
 For contact or more information check my website or the other links bellow:  

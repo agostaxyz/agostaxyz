@@ -1,7 +1,8 @@
 ## Hi, I'm Luca Agosta 👋
-  <a title="😎🐧" href="https://agosta.xyz"><img align="right" width="240px" src="https://i.imgur.com/ISMXjvS.gif" alt="Penguin Gif"/></a>
+  <a title="😎🐧" href="https://agosta.xyz"><img align="right" width="245px" src="https://i.imgur.com/ISMXjvS.gif" alt="Penguin Gif"/></a>
 
 🌎 He/Him; en, pt, es.  
+🇧🇷 Living in São Paulo, Brazil.  
 💻 Frontend dev improving backend.  
 🔓 Open source and privacy advocate.  
 🐮 Animal rights activist.  

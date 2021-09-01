@@ -1,5 +1,5 @@
 ## Hi, I'm Luca Agosta
-  <a title="😎🐧" href="https://agosta.xyz"><img height="222px" align="right" src="https://bestanimations.com/Animals/Birds/Penguins/animated-penguin-gif-5.gif" alt="Penguin Gif"/></a>
+  <a title="😎🐧" href="https://agosta.xyz"><img height="195px" align="right" src="https://bestanimations.com/Animals/Birds/Penguins/animated-penguin-gif-5.gif" alt="Penguin Gif"/></a>
     
 💻 Backend dev  
 🇧🇷 Living in São Paulo, Brazil  

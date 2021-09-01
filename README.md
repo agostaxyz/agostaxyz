@@ -4,7 +4,7 @@
 🌎 He/Him; en, pt, es.  
 🇧🇷 Living in São Paulo, Brazil.  
 💻 Frontend dev improving backend.  
-🎓 CS Bachelor - 6/8.  
+📚 CS Bachelor - 6/8.  
 🔓 Open source and privacy advocate.  
 🐮 Animal rights activist.  
 🥙 Amateur cook.  

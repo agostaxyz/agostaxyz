@@ -1,5 +1,5 @@
 ## Hi, I'm Luca Agosta 👋
-  <a title="😎🐧" href="https://agosta.xyz"><img align="right" width="245px" src="https://i.imgur.com/ISMXjvS.gif" alt="Penguin Gif"/></a>
+  <img align="right" width="245px" title="😎🐧" src="https://i.imgur.com/ISMXjvS.gif" alt="Penguin Gif"/>
 
 <!---6 items is the best list size -->
 🌎 He/Him; en, pt, es.  

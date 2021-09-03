@@ -3,7 +3,7 @@
 
 <!---6 items is the best list size -->
 🌎 He/Him; en-pt-es.  
-🇧🇷&nbsp;&nbsp;Living in Brazil.  
+🇧🇷 Living in Brazil.  
     
 💻 Frontend dev improving backend.  
 🔓 I believe in open source and privacy.  

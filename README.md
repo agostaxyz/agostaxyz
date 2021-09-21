@@ -5,7 +5,7 @@
 🌎 He/Him; en-pt-es.  
 🇧🇷 Living in Brazil.  
     
-💻 Frontend dev improving backend.  
+💻 Frontend dev improving backend skills.  
 🔓 I believe in open source and privacy.  
 🐮 Animal rights activist.  
   

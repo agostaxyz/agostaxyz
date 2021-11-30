@@ -2,13 +2,13 @@
   <img align="right" width="180px" title="😎🐧" src="https://i.imgur.com/ISMXjvS.gif" alt="Penguin Gif"/>  
 
 <!---6 items is the best list size -->
-● 🌎 He/Him,     en-pt-es.  
+● 🌎 **He/Him, en-pt-es.**  
 
-● 💻 Frontend dev improving backend skills.  
+● 💻 **Frontend dev improving backend skills.**  
 
-● 🔓 Open source and internet privacy advocate.  
+● 🔓 **Open source and internet privacy advocate.**  
 
-● 🐧 Some of my tech hobbies are GNU/Linux, self hosting and gaming.  
+● 🐧 **Some of my tech hobbies are GNU/Linux, self hosting and gaming.**  
 
     
 <div>    

@@ -22,6 +22,6 @@
   
   
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coldsaga&layout=compact&langs_count=6&theme=vue-dark">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coldsaga&hide=html&layout=compact&langs_count=6&theme=vue-dark">
 </a>
 </details>

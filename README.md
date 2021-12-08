@@ -1,5 +1,5 @@
 ## Hi, I'm Luca Agosta
-  <img align="right" width="180px" title="😎🐧" src="https://i.imgur.com/ISMXjvS.gif" alt="Penguin Gif"/>  
+  <img align="right" width="192px" title="😎🐧" src="https://i.imgur.com/ISMXjvS.gif" alt="Penguin Gif"/>  
 
 ● 🌎 **He/Him, en-pt-es.**  
 

@@ -3,7 +3,7 @@
 
 ● 🌎 **He/Him, en-pt-es.**  
 
-● 💻 **Frontend dev improving backend skills.**  
+● 💻 **Web dev improving backend skills.**  
 
 ● 🔓 **Open source and internet privacy advocate.**  
 

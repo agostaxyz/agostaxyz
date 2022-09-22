@@ -1,7 +1,7 @@
 <div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agostaxyz&layout=compact&theme=dracula&title_color=6272a4)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agostaxyz&layout=compact&title_color=6272a4&text_color=282a36&border_color=44475a)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agostaxyz&layout=compact&theme=dracula&title_color=6272a4&langs_count=6)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agostaxyz&layout=compact&title_color=6272a4&text_color=282a36&border_color=44475a&langs_count=6)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 <img src="https://raw.githubusercontent.com/agostaxyz/agostaxyz/main/penguin.gif" alt="penguin" align="right" width="192"/>
 </div>
 

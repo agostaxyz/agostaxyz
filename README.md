@@ -6,9 +6,8 @@
 </div>
 
 <div>  
-  <a href="https://www.linkedin.com/in/lucaagosta/" alt="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-6272a4?style=flat&logo=LinkedIn" /></a>
   <a href="https://Agosta.xyz" alt="Agosta.xyz"><img src="https://img.shields.io/badge/Agosta.xyz-b967d4?style=flat" /></a>
+  <a href="https://www.linkedin.com/in/lucaagosta/" alt="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-6272a4?style=flat&logo=LinkedIn" /></a>
+  <a href="https://www.salesforce.com/trailblazer/lucaagosta" alt="SalesForce Trailhead"><img src="https://img.shields.io/badge/SalesForce%20Trailhead-9de0ff?style=flat&logo=Salesforce" /></a>
   <a href="https://leetcode.com/agostaxyz/" alt="LeetCode"><img src="https://img.shields.io/badge/LeetCode-fddc6b?style=flat&logo=LeetCode" /></a>
-  <a href="https://t.me/GeladeiraTsunami" alt="Telegram"><img src="https://img.shields.io/badge/Telegram-8be9fd?style=flat&logo=Telegram" /></a>
-
 </div>

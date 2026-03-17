@@ -7,7 +7,7 @@
 </div>
   <h3>I Like:</h3>
 <ul>
-  <li>Open Source, Gnu/Linux, Rust,</li>
+  <li>Open Source, GNU/Linux, Rust,</li>
   <li> RISC-V, Open Hardware, the AGPL License.</li>
   <li>I'm also an Animals Rights and Privacy Advocate.</li>
 </ul>

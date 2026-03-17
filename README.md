@@ -11,4 +11,4 @@
   <li> RISC-V, Open Hardware, the AGPL License.</li>
   <li>I'm also an Animals Rights and Privacy Advocate.</li>
 </ul>
-<p>My Email is <code>'username'@gmail.com</code>.</p>
+<p>Feel free to reach out, my Email is <code>'username'@gmail.com</code>.</p>
